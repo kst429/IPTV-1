@@ -1,0 +1,2120 @@
+STB EMULATOR CODE 7-6-2020 | 
+
+
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:49:30:E4
+User 5b69F1UDPODhGKiZr
+Pass 8de1F1UxHFI6AgDRY
+http://ok2.se:8000/get.php?username=5b69F1UDPODhGKiZr&password=8de1F1UxHFI6AgDRY&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:24:78:49
+User f402F1UkChITI10tw
+Pass 51b5F1UYUcMP7RTaR
+http://ok2.se:8000/get.php?username=f402F1UkChITI10tw&password=51b5F1UYUcMP7RTaR&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:A1:C2:57
+User b2edF1UrnT3NLToKL
+Pass cb9bF1UQQH9eiIrm1
+http://ok2.se:8000/get.php?username=b2edF1UrnT3NLToKL&password=cb9bF1UQQH9eiIrm1&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:19:56:F9
+User 0f77F1UQXb61NJyyX
+Pass 3039F1UefdGIYAknt
+http://ok2.se:8000/get.php?username=0f77F1UQXb61NJyyX&password=3039F1UefdGIYAknt&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:64:96:85
+User 623dF1Ufr6d3s1c79
+Pass 9fa9F1U4Bc7dNZXRy
+http://ok2.se:8000/get.php?username=623dF1Ufr6d3s1c79&password=9fa9F1U4Bc7dNZXRy&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:55:9D:9A
+User b7b2F1USpfgK2hGcI
+Pass 2226F1UCnYDewbzC4
+http://ok2.se:8000/get.php?username=b7b2F1USpfgK2hGcI&password=2226F1UCnYDewbzC4&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:B7:FA:F1
+User b547F1UQn46mRrkDr
+Pass 7defF1U3FId2O8Lni
+http://ok2.se:8000/get.php?username=b547F1UQn46mRrkDr&password=7defF1U3FId2O8Lni&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:B2:7D:A4
+User db68F1U0vEUGrPDNi
+Pass cbb0F1UqOGQFBePzW
+http://ok2.se:8000/get.php?username=db68F1U0vEUGrPDNi&password=cbb0F1UqOGQFBePzW&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:07:0D:88
+User a2aeF1UjCT8RPMp8y
+Pass 4aa9F1U6DyxIAeqHA
+http://ok2.se:8000/get.php?username=a2aeF1UjCT8RPMp8y&password=4aa9F1U6DyxIAeqHA&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:09:36:9C
+User e616F1U2b96QTXIrN
+Pass da92F1UYFmwZ6pEuJ
+http://ok2.se:8000/get.php?username=e616F1U2b96QTXIrN&password=da92F1UYFmwZ6pEuJ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:4C:68:DA
+User 9162F1UpgLt4NhL0u
+Pass e017F1U2Y2DsGaWRh
+http://ok2.se:8000/get.php?username=9162F1UpgLt4NhL0u&password=e017F1U2Y2DsGaWRh&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:FD:8F:AD
+User cb80F1U6XGRCNDHiA
+Pass ea3aF1Ulln9XAaECZ
+http://ok2.se:8000/get.php?username=cb80F1U6XGRCNDHiA&password=ea3aF1Ulln9XAaECZ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:15:0F:3A
+User 3641F1UOGy4Mwp5C6
+Pass 7078F1UlCHCY3p3f7
+http://ok2.se:8000/get.php?username=3641F1UOGy4Mwp5C6&password=7078F1UlCHCY3p3f7&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:23:D5:C6
+USER: 6VyWe4tMja
+PASS: LTDtShHvNM
+http://yellow-star.info:8000/get.php?username=6VyWe4tMja&password=LTDtShHvNM&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:57:92:B1
+User edfbF1U2KJ68zdWQM
+Pass cdb6F1UiEUMwOa2cQ
+http://ok2.se:8000/get.php?username=edfbF1U2KJ68zdWQM&password=cdb6F1UiEUMwOa2cQ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:65:77:27
+User 83caF1Uv9eXWa7355
+Pass 3260F1Ug2fxXYBnvQ
+http://ok2.se:8000/get.php?username=83caF1Uv9eXWa7355&password=3260F1Ug2fxXYBnvQ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:BD:A5:0A
+User cdc6F1UOaql9VT9VB
+Pass dee6F1Up6TwU5z7xy
+http://ok2.se:8000/get.php?username=cdc6F1UOaql9VT9VB&password=dee6F1Up6TwU5z7xy&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:15:6F:3A
+User c17eF1UJ8vyXSzwi3
+Pass 111dF1UPLRJARMlkN
+http://ok2.se:8000/get.php?username=c17eF1UJ8vyXSzwi3&password=111dF1UPLRJARMlkN&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:3D:CF:23
+USER: u39VVkr2vu
+PASS: kDoZDZYqdc
+http://yellow-star.info:8000/get.php?username=u39VVkr2vu&password=kDoZDZYqdc&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:48:B9:3A
+User 980fF1Udhf8hrhFUX
+Pass fbacF1U5F7ZvYy8Bf
+http://ok2.se:8000/get.php?username=980fF1Udhf8hrhFUX&password=fbacF1U5F7ZvYy8Bf&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:E2:CA:74
+User f02dF1UnWbrsHA2Vn
+Pass c9caF1UyOaFTM0jT1
+http://ok2.se:8000/get.php?username=f02dF1UnWbrsHA2Vn&password=c9caF1UyOaFTM0jT1&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:61:04:69
+User U3bgxs7rxP
+Pass kjbioWuzpU
+http://ok2.se:8000/get.php?username=U3bgxs7rxP&password=kjbioWuzpU&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:9A:10:5A
+USER: SgXqyhusYR
+PASS: aEdQEwHZcE
+http://yellow-star.info:8000/get.php?username=SgXqyhusYR&password=aEdQEwHZcE&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:20:03:C2
+User e31bF1Ux29ZW6WUj6
+Pass 4537F1UzM4YkL0uAP
+http://ok2.se:8000/get.php?username=e31bF1Ux29ZW6WUj6&password=4537F1UzM4YkL0uAP&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:4C:0D:CC
+User 738fF1UAyxXJk9WwF
+Pass a044F1UfKMEdjzh64
+http://ok2.se:8000/get.php?username=738fF1UAyxXJk9WwF&password=a044F1UfKMEdjzh64&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:1A:1F:A7
+User de67F1U02gj90aGyr
+Pass f13eF1UV6cPfkZLRj
+http://ok2.se:8000/get.php?username=de67F1U02gj90aGyr&password=f13eF1UV6cPfkZLRj&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:55:2C:83
+User ee5aF1UgaxU8ipObJ
+Pass b699F1UhPIbMsitSq
+http://ok2.se:8000/get.php?username=ee5aF1UgaxU8ipObJ&password=b699F1UhPIbMsitSq&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:54:5B:A6
+User e499F1U0qGRiuABS7
+Pass bd13F1ULsmak9bCDV
+http://ok2.se:8000/get.php?username=e499F1U0qGRiuABS7&password=bd13F1ULsmak9bCDV&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:06:42:98
+User 14a4F1U8tludHDUMe
+Pass 1ed2F1Ul4nNB5LdSK
+http://ok2.se:8000/get.php?username=14a4F1U8tludHDUMe&password=1ed2F1Ul4nNB5LdSK&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:AD:2F:02
+User bb8fF1UllIoyxR6ci
+Pass c656F1UmwDkTHuZSP
+http://ok2.se:8000/get.php?username=bb8fF1UllIoyxR6ci&password=c656F1UmwDkTHuZSP&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:66:58:39
+User fc27F1URocCaiv5eP
+Pass c860F1U5tbVv9o12L
+http://ok2.se:8000/get.php?username=fc27F1URocCaiv5eP&password=c860F1U5tbVv9o12L&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:07:8F:50
+User 5d6eF1UFrRM8HJ8ER
+Pass 3c3bF1UuvNSOJGKul
+http://ok2.se:8000/get.php?username=5d6eF1UFrRM8HJ8ER&password=3c3bF1UuvNSOJGKul&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:05:4C:C0
+User e9e1F1UVoANnADTLl
+Pass 0964F1UqWjTqFxWmG
+http://ok2.se:8000/get.php?username=e9e1F1UVoANnADTLl&password=0964F1UqWjTqFxWmG&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:40:D1:2F
+USER: MdQg2jqpDa
+PASS: jAMpQRybrM
+http://yellow-star.info:8000/get.php?username=MdQg2jqpDa&password=jAMpQRybrM&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:3F:0F:D8
+USER: zw8YfJQPzF
+PASS: v7mPGYmPKI
+http://yellow-star.info:8000/get.php?username=zw8YfJQPzF&password=v7mPGYmPKI&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:A9:AC:5A
+USER: HSqEHahnvL
+PASS: 5n3czQknli
+http://yellow-star.info:8000/get.php?username=HSqEHahnvL&password=5n3czQknli&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:C1:D2:51
+USER: UbYN2tZgbE
+PASS: XFCDYVxmvp
+http://yellow-star.info:8000/get.php?username=UbYN2tZgbE&password=XFCDYVxmvp&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:08:1F:A4
+User 3beaF1UkGsiOxaPfu
+Pass 5d74F1UtvWY8xVKqa
+http://ok2.se:8000/get.php?username=3beaF1UkGsiOxaPfu&password=5d74F1UtvWY8xVKqa&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:08:1F:BB
+User 816dF1UiDBV1pRMHo
+Pass 5a3dF1U9ELoCUljLv
+http://ok2.se:8000/get.php?username=816dF1UiDBV1pRMHo&password=5a3dF1U9ELoCUljLv&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:77:8E:CC
+User ae38F1U7gyoOU69vy
+Pass 9d00F1UFfT1CB2UaU
+http://ok2.se:8000/get.php?username=ae38F1U7gyoOU69vy&password=9d00F1UFfT1CB2UaU&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:3C:BA:A1
+User bEn7NqykAt
+Pass rusGtfQDMP
+http://ok2.se:8000/get.php?username=bEn7NqykAt&password=rusGtfQDMP&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:9C:66:96
+USER: 47qAEtqdXU
+PASS: w7YaDCVZuM
+http://yellow-star.info:8000/get.php?username=47qAEtqdXU&password=w7YaDCVZuM&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:19:1F:B6
+USER: fjreGDQOYH
+PASS: cPNU4EAUPW
+http://yellow-star.info:8000/get.php?username=fjreGDQOYH&password=cPNU4EAUPW&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:5E:36:1E
+USER: eU8ou9A8mz
+PASS: HEAGZibelf
+http://yellow-star.info:8000/get.php?username=eU8ou9A8mz&password=HEAGZibelf&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:62:DC:6B
+USER: qbdsV5U73L
+PASS: NL7g2rUS3U
+http://yellow-star.info:8000/get.php?username=qbdsV5U73L&password=NL7g2rUS3U&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:2C:4F:CC
+User fcdaF1UB90gQ2D3e8
+Pass d41dF1U6d5vCESaIh
+http://ok2.se:8000/get.php?username=fcdaF1UB90gQ2D3e8&password=d41dF1U6d5vCESaIh&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:A9:1F:9C
+User 754cF1USCmvGFOH5O
+Pass 47d8F1UkGPCdqVqhf
+http://ok2.se:8000/get.php?username=754cF1USCmvGFOH5O&password=47d8F1UkGPCdqVqhf&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:11:50:5C
+USER: kLMOmRrjAE
+PASS: aRBO9xUn0A
+http://yellow-star.info:8000/get.php?username=kLMOmRrjAE&password=aRBO9xUn0A&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:A6:3C:E5
+USER: NLEDcSgby6
+PASS: LfK78BSn38
+http://yellow-star.info:8000/get.php?username=NLEDcSgby6&password=LfK78BSn38&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:50:DA:33
+USER: eSLdYD9wFR
+PASS: DJP8WRew6H
+http://yellow-star.info:8000/get.php?username=eSLdYD9wFR&password=DJP8WRew6H&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:18:0A:89
+USER: IJ7v5307IO
+PASS: 6Ib2iYBml9
+http://yellow-star.info:8000/get.php?username=IJ7v5307IO&password=6Ib2iYBml9&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:CE:73:FB
+USER: dBZUmT6gKK
+PASS: QR6xIWFTAe
+http://yellow-star.info:8000/get.php?username=dBZUmT6gKK&password=QR6xIWFTAe&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:3A:F0:4E
+USER: ijv8VGBj6Y
+PASS: 6NGBbBBbB45
+http://yellow-star.info:8000/get.php?username=ijv8VGBj6Y&password=6NGBbBBbB45&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:3A:FA:38
+USER: 54HcT0MypG
+PASS: Bit7qnux6x
+http://yellow-star.info:8000/get.php?username=54HcT0MypG&password=Bit7qnux6x&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:3F:31:29
+USER: HsON8c9lJr
+PASS: u1YbxckWSq
+http://yellow-star.info:8000/get.php?username=HsON8c9lJr&password=u1YbxckWSq&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:FC:56:A1
+USER: 7ORI43zfU4
+PASS: gWCWfSaMTL
+http://yellow-star.info:8000/get.php?username=7ORI43zfU4&password=gWCWfSaMTL&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:E9:9E:20
+USER: ng6b7AVO2f
+PASS: WzTKDt0J98
+http://yellow-star.info:8000/get.php?username=ng6b7AVO2f&password=WzTKDt0J98&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:43:14:F1
+USER: TvedxJRAeh
+PASS: iQtvTK6VPH
+http://yellow-star.info:8000/get.php?username=TvedxJRAeh&password=iQtvTK6VPH&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:4F:36:63
+USER: tRI4YfHpqn
+PASS: tUF2OuG9pN
+http://yellow-star.info:8000/get.php?username=tRI4YfHpqn&password=tUF2OuG9pN&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:40:5E:2B
+USER: olrgSg82Ko
+PASS: MYcKSDaf7n
+http://yellow-star.info:8000/get.php?username=olrgSg82Ko&password=MYcKSDaf7n&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:2E:28:CC
+USER: rgb9IW9Ni0
+PASS: UCmogvFFy0
+http://yellow-star.info:8000/get.php?username=rgb9IW9Ni0&password=UCmogvFFy0&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:27:6F:4E
+USER: cLqOiYOgoQ
+PASS: BIERQ16usP
+http://yellow-star.info:8000/get.php?username=cLqOiYOgoQ&password=BIERQ16usP&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:3A:EE:AA
+USER: iVLrOLLkGd
+PASS: ZzVXAwjbXH
+http://yellow-star.info:8000/get.php?username=iVLrOLLkGd&password=ZzVXAwjbXH&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:A3:A8:75
+USER: gaA8JrgaWY
+PASS: oiS9PrW5WJ
+http://yellow-star.info:8000/get.php?username=gaA8JrgaWY&password=oiS9PrW5WJ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:36:61:1E
+USER: 6aZCXdmcau
+PASS: 2o1oy6XFlO
+http://yellow-star.info:8000/get.php?username=6aZCXdmcau&password=2o1oy6XFlO&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:4F:33:46
+USER: Y3JGiOYA6k
+PASS: aRF68NaRgF
+http://yellow-star.info:8000/get.php?username=Y3JGiOYA6k&password=aRF68NaRgF&type=m3u_plus
+4:20 AM]
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:C9:5F:58
+USER: sVgFMJJWUB
+PASS: tvEjaL0i0u
+http://yellow-star.info:8000/get.php?username=sVgFMJJWUB&password=tvEjaL0i0u&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:3B:19:A4
+USER: GJPCXuzW9x
+PASS: x9jKhqwRJb
+http://yellow-star.info:8000/get.php?username=GJPCXuzW9x&password=x9jKhqwRJb&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:4B:57:12
+User b64fF1UaoQ7rA0O6R
+Pass 12b7F1Uvca4zRfW1Z
+http://ok2.se:8000/get.php?username=b64fF1UaoQ7rA0O6R&password=12b7F1Uvca4zRfW1Z&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:A3:85:22
+USER: C0adHxLlbG
+PASS: UthvBA3EFi
+http://yellow-star.info:8000/get.php?username=C0adHxLlbG&password=UthvBA3EFi&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:A7:09:59
+USER: L!q2IYKB9sAh
+PASS: LfbjgRSOslyL
+http://yellow-star.info:8000/get.php?username=L!q2IYKB9sAh&password=LfbjgRSOslyL&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:1C:AF:B0
+User LVOtXBexrg
+Pass mq5Yn6ZP4p
+http://ok2.se:8000/get.php?username=LVOtXBexrg&password=mq5Yn6ZP4p&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:B8:AA:07
+User 65c7F1UzOgAwlxIwu
+Pass 0fffF1UdDTHi1Ez4P
+http://ok2.se:8000/get.php?username=65c7F1UzOgAwlxIwu&password=0fffF1UdDTHi1Ez4P&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:4F:44:FC
+USER: 6UBVIIJppUlbL
+PASS: Lx9eVTCCNehO77
+http://yellow-star.info:8000/get.php?username=6UBVIIJppUlbL&password=Lx9eVTCCNehO77&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:57:9D:01
+USER: h8bvYPX5ui
+PASS: XlJxEtefLj
+http://yellow-star.info:8000/get.php?username=h8bvYPX5ui&password=XlJxEtefLj&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:83:C4:E4
+User 32b5F1UXbtWFjvMRC
+Pass 8e41F1UNsVZLte2pr
+http://ok2.se:8000/get.php?username=32b5F1UXbtWFjvMRC&password=8e41F1UNsVZLte2pr&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:18:06:8C
+USER: ocmztw4xMz
+PASS: AjoTmjcrnJ
+http://yellow-star.info:8000/get.php?username=ocmztw4xMz&password=AjoTmjcrnJ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL: http://yellow-star.info:8000/c/
+MAC 00:1A:79:53:9B:5E
+USER: Ew4USrKe2t
+PASS: jOh31omFtM
+http://yellow-star.info:8000/get.php?username=Ew4USrKe2t&password=jOh31omFtM&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:9F:6D:6C
+User bf86F1UweiSF7hNih
+Pass a27fF1UGBmyesMAO4
+http://ok2.se:8000/get.php?username=bf86F1UweiSF7hNih&password=a27fF1UGBmyesMAO4&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:6D:1E:29
+User ce02F1U9NQO88MISe
+Pass a276F1UUyl5wxyXK3
+http://ok2.se:8000/get.php?username=ce02F1U9NQO88MISe&password=a276F1UUyl5wxyXK3&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:95:4A:68
+User 4c47F1UTishnbnyJg
+Pass 8d87F1UYVXvC0U6Sa
+http://ok2.se:8000/get.php?username=4c47F1UTishnbnyJg&password=8d87F1UYVXvC0U6Sa&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:AC:01:C2
+User 1087F1UGZr06BBhVO
+Pass 20dbF1Ug7EzH4ILgi
+http://ok2.se:8000/get.php?username=1087F1UGZr06BBhVO&password=20dbF1Ug7EzH4ILgi&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:73:33:5C
+User 9ec0F1UVdWcitBkPN
+Pass 12baF1Ut2bgOc3Qv6
+http://ok2.se:8000/get.php?username=9ec0F1UVdWcitBkPN&password=12baF1Ut2bgOc3Qv6&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:09:8F:0E
+User 101bF1Unupx1tNZ4e
+Pass 5bbeF1U3Pp37hfFJ5
+http://ok2.se:8000/get.php?username=101bF1Unupx1tNZ4e&password=5bbeF1U3Pp37hfFJ5&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:A1:FF:74
+User b3adF1UGHraM3Jr3B
+Pass fa4aF1U8QWhx3jCCa
+http://ok2.se:8000/get.php?username=b3adF1UGHraM3Jr3B&password=fa4aF1U8QWhx3jCCa&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:BC:31:08
+User 9d51F1U46Yt72KE4R
+Pass 4cd6F1U68TnWR7ls4
+http://ok2.se:8000/get.php?username=9d51F1U46Yt72KE4R&password=4cd6F1U68TnWR7ls4&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:F0:55:89
+User ce6eF1UpKZAV7ZI3e
+Pass c541F1U1ggwlznaAf
+http://ok2.se:8000/get.php?username=ce6eF1UpKZAV7ZI3e&password=c541F1U1ggwlznaAf&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:12:7F:52
+User ptoozx4Ido
+Pass IQyjdfwfAC
+http://ok2.se:8000/get.php?username=ptoozx4Ido&password=IQyjdfwfAC&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:CF:2F:A3
+User e1c2F1UWSoXQN8Grh
+Pass 45acF1Uf7AqVGU46n
+http://ok2.se:8000/get.php?username=e1c2F1UWSoXQN8Grh&password=45acF1Uf7AqVGU46n&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:A6:A2:E7
+User 8eefF1UoPVTcXXQcy
+Pass 1b1cF1U4OhyK1mJJo
+http://ok2.se:8000/get.php?username=8eefF1UoPVTcXXQcy&password=1b1cF1U4OhyK1mJJo&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:DF:3F:30
+User 3d69F1UNm87ri3Exx
+Pass 3bc9F1UO7nKBZXBeU
+http://ok2.se:8000/get.php?username=3d69F1UNm87ri3Exx&password=3bc9F1UO7nKBZXBeU&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:B8:0F:26
+User 80c3F1U4TVupcJYDE
+Pass 324eF1UAGUXvjZLkN
+http://ok2.se:8000/get.php?username=80c3F1U4TVupcJYDE&password=324eF1UAGUXvjZLkN&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:05:0F:9C
+User 2e52F1UFoKErRqPgf
+Pass e99dF1UMdsh2p5aqe
+http://ok2.se:8000/get.php?username=2e52F1UFoKErRqPgf&password=e99dF1UMdsh2p5aqe&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:E1:A2:7E
+User klMniFhURN
+Pass YaOsCVXWVH
+http://ok2.se:8000/get.php?username=klMniFhURN&password=YaOsCVXWVH&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:55:9B:89
+User 2cc8F1UxHxgD8w9y8
+Pass f62fF1UXcuqYEvRAi
+http://ok2.se:8000/get.php?username=2cc8F1UxHxgD8w9y8&password=f62fF1UXcuqYEvRAi&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:55:90:7C
+User e4a7F1UBJo0isAF9a
+Pass 1dc1F1UnFZCsEo6Rh
+http://ok2.se:8000/get.php?username=e4a7F1UBJo0isAF9a&password=1dc1F1UnFZCsEo6Rh&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:44:E4:81
+User b4d4F1UoZyi6076N3
+Pass a375F1Ud45dZTxwWm
+http://ok2.se:8000/get.php?username=b4d4F1UoZyi6076N3&password=a375F1Ud45dZTxwWm&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:0C:5F:78
+User 1915F1UB4pHM8MEXL
+Pass d9f5F1UbEV5EWUCh7
+http://ok2.se:8000/get.php?username=1915F1UB4pHM8MEXL&password=d9f5F1UbEV5EWUCh7&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:AA:0D:72
+User ca48F1U7VoNQelJiE
+Pass d0efF1UzERPaO8NXU
+http://ok2.se:8000/get.php?username=ca48F1U7VoNQelJiE&password=d0efF1UzERPaO8NXU&type=m3u_plus
+10:08 PM]
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:06:9F:B4
+User d5b2F1UdAuqxdcKct
+Pass 4768F1U6BQTvhEQ0e
+http://ok2.se:8000/get.php?username=d5b2F1UdAuqxdcKct&password=4768F1U6BQTvhEQ0e&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:67:54:88
+User 9bedF1UEwD3qaAM0g
+Pass f86bF1UZxckN3x3no
+http://ok2.se:8000/get.php?username=9bedF1UEwD3qaAM0g&password=f86bF1UZxckN3x3no&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:8C:76:37
+User 920eF1Ufn89m4mpVr
+Pass 0d2bF1UISG2DDFGOV
+http://ok2.se:8000/get.php?username=920eF1Ufn89m4mpVr&password=0d2bF1UISG2DDFGOV&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:65:E2:02
+User cdcaF1UX3nxCKKjRz
+Pass a35aF1UUjIzTtLAIF
+http://ok2.se:8000/get.php?username=cdcaF1UX3nxCKKjRz&password=a35aF1UUjIzTtLAIF&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:09:B0:7A
+User cf74F1Un3Y9afTVAc
+Pass d98fF1UO3nX9G7lum
+http://ok2.se:8000/get.php?username=cf74F1Un3Y9afTVAc&password=d98fF1UO3nX9G7lum&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:D3:00:11
+User zQtuXn3ovj
+Pass z2AGmGafgy
+http://ok2.se:8000/get.php?username=zQtuXn3ovj&password=z2AGmGafgy&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:36:7E:B7
+User af02F1UoF2JBFr1Pa
+Pass cfd7F1UmL9oNUfHGz
+http://ok2.se:8000/get.php?username=af02F1UoF2JBFr1Pa&password=cfd7F1UmL9oNUfHGz&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:CE:7F:A1
+User a488F1U7ovn263anw
+Pass f642F1UxI2HMiRjLp
+http://ok2.se:8000/get.php?username=a488F1U7ovn263anw&password=f642F1UxI2HMiRjLp&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:81:69:12
+User e4a4F1U2tfYdkA4Yb
+Pass e83fF1UB5lp8YfTJS
+http://ok2.se:8000/get.php?username=e4a4F1U2tfYdkA4Yb&password=e83fF1UB5lp8YfTJS&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:C5:01:07
+User 1U5LT9ctbo
+Pass f0IzNq9b0x
+http://ok2.se:8000/get.php?username=1U5LT9ctbo&password=f0IzNq9b0x&type=m3u_plus
+10:09 PM]
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:4A:E7:1E
+User f38cF1UuJktdn7wMb
+Pass 7ea8F1U9XwVY1HEQB
+http://ok2.se:8000/get.php?username=f38cF1UuJktdn7wMb&password=7ea8F1U9XwVY1HEQB&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:93:A0:73
+User f99aF1U71AbwjXRNG
+Pass a94bF1UthAHMGi30G
+http://ok2.se:8000/get.php?username=f99aF1U71AbwjXRNG&password=a94bF1UthAHMGi30G&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:55:84:92
+User dd28F1UuPBWm7j36Q
+Pass 9bd6F1Ujs43Re078w
+http://ok2.se:8000/get.php?username=dd28F1UuPBWm7j36Q&password=9bd6F1Ujs43Re078w&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:4A:C3:F7
+User 0918F1UmPHYWysHba
+Pass 1af3F1Ui6LwQg8YF6
+http://ok2.se:8000/get.php?username=0918F1UmPHYWysHba&password=1af3F1Ui6LwQg8YF6&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:4C:08:2E
+User 8be3F1UvCqotQn0XG
+Pass 50eeF1UrDLNJXteTc
+http://ok2.se:8000/get.php?username=8be3F1UvCqotQn0XG&password=50eeF1UrDLNJXteTc&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:1E:B1:A8
+User 94deF1UgE33nha40a
+Pass 9e5bF1U1zX5qwlVCz
+http://ok2.se:8000/get.php?username=94deF1UgE33nha40a&password=9e5bF1U1zX5qwlVCz&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:48:94:BE
+User 08a5F1UUb568QjvlK
+Pass 8b2fF1UYUCAOwTJhH
+http://ok2.se:8000/get.php?username=08a5F1UUb568QjvlK&password=8b2fF1UYUCAOwTJhH&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:D0:08:11
+User ddacF1UXD75XQ2Sr0
+Pass 704fF1UX10GJsk1mF
+http://ok2.se:8000/get.php?username=ddacF1UXD75XQ2Sr0&password=704fF1UX10GJsk1mF&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:85:34:CC
+User 512bF1UlUiGQZhaXm
+Pass e6f6F1UNgPntX4hRq
+http://ok2.se:8000/get.php?username=512bF1UlUiGQZhaXm&password=e6f6F1UNgPntX4hRq&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:FD:4F:FD
+User 1bdcF1U3J6coqC40M
+Pass b8f5F1UWqyW36q1yO
+http://ok2.se:8000/get.php?username=1bdcF1U3J6coqC40M&password=b8f5F1UWqyW36q1yO&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:20:03:A1
+User 206dF1UQV6KKkrzi9
+Pass 7378F1U2TTzGuQwEw
+http://ok2.se:8000/get.php?username=206dF1UQV6KKkrzi9&password=7378F1U2TTzGuQwEw&type=m3u_plus
+10:09 PM]
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:A3:5E:FA
+User 66fcF1ULhuPPTbLdN
+Pass e5b8F1UHH9a2TM5qc
+http://ok2.se:8000/get.php?username=66fcF1ULhuPPTbLdN&password=e5b8F1UHH9a2TM5qc&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:49:97:7A
+User 7fc9F1UCWqUTCtr53
+Pass a6ccF1UrqeQrQ8lDM
+http://ok2.se:8000/get.php?username=7fc9F1UCWqUTCtr53&password=a6ccF1UrqeQrQ8lDM&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:09:58:D9
+User 374fF1UmxFda7iaJI
+Pass e8e5F1UYYtKLehxkj
+http://ok2.se:8000/get.php?username=374fF1UmxFda7iaJI&password=e8e5F1UYYtKLehxkj&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:45:59:B8
+User f9b0F1UQtH8EBsS2R
+Pass 6623F1UGJEwfqWvCL
+http://ok2.se:8000/get.php?username=f9b0F1UQtH8EBsS2R&password=6623F1UGJEwfqWvCL&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:B5:5F:53
+User 4b4eF1U7sWzOh9gTz
+Pass 4760F1UpWWbXPi0PJ
+http://ok2.se:8000/get.php?username=4b4eF1U7sWzOh9gTz&password=4760F1UpWWbXPi0PJ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:C1:6F:69
+User db1cF1U982Btoj8z4
+Pass fe3fF1U6dFjmd0YAR
+http://ok2.se:8000/get.php?username=db1cF1U982Btoj8z4&password=fe3fF1U6dFjmd0YAR&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:85:FA:15
+User 642cF1UMD9pnnCycB
+Pass 48c4F1UgYFKiGtOfO
+http://ok2.se:8000/get.php?username=642cF1UMD9pnnCycB&password=48c4F1UgYFKiGtOfO&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:F5:80:02
+User 6ba4F1UqScSGzwLQP
+Pass 0d1aF1U8CtqbNQF0Y
+http://ok2.se:8000/get.php?username=6ba4F1UqScSGzwLQP&password=0d1aF1U8CtqbNQF0Y&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:22:5F:CA
+User b296F1Ud8xiNO0odw
+Pass 261dF1U4Uxpd9lCuE
+http://ok2.se:8000/get.php?username=b296F1Ud8xiNO0odw&password=261dF1U4Uxpd9lCuE&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:A5:B9:2A
+User k1Vkn3pzbT
+Pass bwc6NRjYGb
+http://ok2.se:8000/get.php?username=k1Vkn3pzbT&password=bwc6NRjYGb&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:4C:79:D0
+User eVBoL5hGTs
+Pass sGvich1mcE
+http://ok2.se:8000/get.php?username=eVBoL5hGTs&password=sGvich1mcE&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:00:4E:E6
+User YeIFqsVXQa
+Pass DJnj70SSsk
+http://ok2.se:8000/get.php?username=YeIFqsVXQa&password=DJnj70SSsk&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:F4:4F:AD
+User 9545F1UKz6OjJWVT8
+Pass 5efdF1U3aebUaLerZ
+http://ok2.se:8000/get.php?username=9545F1UKz6OjJWVT8&password=5efdF1U3aebUaLerZ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:FF:7F:75
+User 0bfaF1UCkTVSk7a3U
+Pass 693aF1UrTx4AtqyKQ
+http://ok2.se:8000/get.php?username=0bfaF1UCkTVSk7a3U&password=693aF1UrTx4AtqyKQ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:6E:05:65
+User f5ebF1UPxSsD24o9H
+Pass 2ea3F1UW00OAYcdbE
+http://ok2.se:8000/get.php?username=f5ebF1UPxSsD24o9H&password=2ea3F1UW00OAYcdbE&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:40:4D:D2
+User e5bbF1UXPZGpdaw89
+Pass c7f0F1UojwVvZvJoW
+http://ok2.se:8000/get.php?username=e5bbF1UXPZGpdaw89&password=c7f0F1UojwVvZvJoW&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:91:4C:69
+User 8084F1UHWS7lX2QyX
+Pass 2d67F1Ub0K3gICmz2
+http://ok2.se:8000/get.php?username=8084F1UHWS7lX2QyX&password=2d67F1Ub0K3gICmz2&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:99:E7:3F
+User bff5F1Upaoui53muB
+Pass 16ebF1UV7U2C0KrTH
+http://ok2.se:8000/get.php?username=bff5F1Upaoui53muB&password=16ebF1UV7U2C0KrTH&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:44:D5:1E
+User bad0F1UM1QVn2VGHg
+Pass 0f80F1U2pMtQk6c5j
+http://ok2.se:8000/get.php?username=bad0F1UM1QVn2VGHg&password=0f80F1U2pMtQk6c5j&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:2A:24:0B
+User a47fF1UBN3EZm5nox
+Pass aefdF1UqADvF3nW4j
+http://ok2.se:8000/get.php?username=a47fF1UBN3EZm5nox&password=aefdF1UqADvF3nW4j&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:CE:1F:61
+User d5acF1U8K74ai5oKF
+Pass 5947F1ULflD17B6G6
+http://ok2.se:8000/get.php?username=d5acF1U8K74ai5oKF&password=5947F1ULflD17B6G6&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:47:FD:DD
+User 46aaF1UnusouJ1Bww
+Pass d7eeF1ULj1JsIoZkF
+http://ok2.se:8000/get.php?username=46aaF1UnusouJ1Bww&password=d7eeF1ULj1JsIoZkF&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:FD:5F:02
+User 985dF1UjMHfS4fgxb
+Pass 74b7F1UbR5Hu6Jguo
+http://ok2.se:8000/get.php?username=985dF1UjMHfS4fgxb&password=74b7F1UbR5Hu6Jguo&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:DA:77:FA
+User 054fF1U1dzAW6K97k
+Pass d920F1UuyDTy77Y09
+http://ok2.se:8000/get.php?username=054fF1U1dzAW6K97k&password=d920F1UuyDTy77Y09&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:23:01:86
+User 59aeF1UovnzjRJnHL
+Pass e7f2F1UTehhVNcMet
+http://ok2.se:8000/get.php?username=59aeF1UovnzjRJnHL&password=e7f2F1UTehhVNcMet&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:EC:EB:3B
+User c67bF1UO7yBTIXMcr
+Pass 63b4F1UY1Ac1iyfux
+http://ok2.se:8000/get.php?username=c67bF1UO7yBTIXMcr&password=63b4F1UY1Ac1iyfux&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:5F:52:40
+User d471F1UT5EaYUSj1K
+Pass 845eF1UJ15PSE7tWc
+http://ok2.se:8000/get.php?username=d471F1UT5EaYUSj1K&password=845eF1UJ15PSE7tWc&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:55:32:37
+User b78dF1U4EL15IgT3V
+Pass 43ecF1Uyxm3yZC6mQ
+http://ok2.se:8000/get.php?username=b78dF1U4EL15IgT3V&password=43ecF1Uyxm3yZC6mQ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:B5:2F:3E
+User sbIZ148CI5
+Pass xgXor1t1Mp
+http://ok2.se:8000/get.php?username=sbIZ148CI5&password=xgXor1t1Mp&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:B3:32:03
+User Gek5W6dXCP
+Pass 9ySTd4I0zg
+http://ok2.se:8000/get.php?username=Gek5W6dXCP&password=9ySTd4I0zg&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:D9:8F:28
+User jGh479npr3
+Pass yiBbsOq91g
+http://ok2.se:8000/get.php?username=jGh479npr3&password=yiBbsOq91g&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:D1:2F:AD
+User 1740F1UdwMcFPOYaI
+Pass d3f4F1UHt3k99o2p5
+http://ok2.se:8000/get.php?username=1740F1UdwMcFPOYaI&password=d3f4F1UHt3k99o2p5&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:7C:F9:54
+User 6a14F1Urr6HUqBRO3
+Pass 1983F1UlriNVV5UfE
+http://ok2.se:8000/get.php?username=6a14F1Urr6HUqBRO3&password=1983F1UlriNVV5UfE&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:BD:9F:72
+User 8298F1U3xgOMPUdVG
+Pass 0630F1UBatZTtATCh
+http://ok2.se:8000/get.php?username=8298F1U3xgOMPUdVG&password=0630F1UBatZTtATCh&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:06:9B:D6
+User 31cbF1UUeQBI5XJVc
+Pass d770F1UBNYWaquSBw
+http://ok2.se:8000/get.php?username=31cbF1UUeQBI5XJVc&password=d770F1UBNYWaquSBw&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:1B:8F:5D
+User 3122F1Ub1I710qxp5
+Pass 8c16F1UoJlXxAlr6i
+http://ok2.se:8000/get.php?username=3122F1Ub1I710qxp5&password=8c16F1UoJlXxAlr6i&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:4A:BD:4C
+User 1Hy9l4IP76
+Pass 3fL3FxgsiZ
+http://ok2.se:8000/get.php?username=1Hy9l4IP76&password=3fL3FxgsiZ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:01:5F:89
+User bf66F1UWU5xognHf1
+Pass ed37F1UwAOiUrgFzb
+http://ok2.se:8000/get.php?username=bf66F1UWU5xognHf1&password=ed37F1UwAOiUrgFzb&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:11:4E:65
+User 522cF1UfwiMKED4NP
+Pass 2285F1UGEwSaIM3Be
+http://ok2.se:8000/get.php?username=522cF1UfwiMKED4NP&password=2285F1UGEwSaIM3Be&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:52:3B:52
+User sArW6ex9G6
+Pass XTspuK90SK
+http://ok2.se:8000/get.php?username=sArW6ex9G6&password=XTspuK90SK&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:4A:E9:CA
+User 5865F1UAzQEDENXPI
+Pass 2e44F1UaWcuoYdJem
+http://ok2.se:8000/get.php?username=5865F1UAzQEDENXPI&password=2e44F1UaWcuoYdJem&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:62:FF:A5
+User 12dfF1Ul4Si28bv8r
+Pass c8a0F1UGA9MUdTvXO
+http://ok2.se:8000/get.php?username=12dfF1Ul4Si28bv8r&password=c8a0F1UGA9MUdTvXO&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:A4:27:C8
+User 6fb8F1Uwa37tUNeax
+Pass 61cdF1UiIDtFtYRYI
+http://ok2.se:8000/get.php?username=6fb8F1Uwa37tUNeax&password=61cdF1UiIDtFtYRYI&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:01:5A:C8
+User CTTuRv9UQb
+Pass TttItMoV3H
+http://ok2.se:8000/get.php?username=CTTuRv9UQb&password=TttItMoV3H&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:83:98:80
+User hQnOOsuX4O
+Pass I7daZQDbF1
+http://ok2.se:8000/get.php?username=hQnOOsuX4O&password=I7daZQDbF1&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:61:85:71
+User d8f5F1UbjaSajPZ3k
+Pass c8dfF1UuHih8aCsK0
+http://ok2.se:8000/get.php?username=d8f5F1UbjaSajPZ3k&password=c8dfF1UuHih8aCsK0&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:00:7F:57
+User 9a05F1U3BTFLyMFtT
+Pass 5db5F1Uf6LrGmSAeK
+http://ok2.se:8000/get.php?username=9a05F1U3BTFLyMFtT&password=5db5F1Uf6LrGmSAeK&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://ok2.se:8000/c/
+MAC 00:1A:79:2C:EE:F4
+User b3aeF1URnVbN5poUL
+Pass 552dF1UkvSaXsPnfD
+http://ok2.se:8000/get.php?username=b3aeF1URnVbN5poUL&password=552dF1UkvSaXsPnfD&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://www.sansat.net:25461/c/
+MAC 00:1A:79:5F:19:E5
+User MAG7685771462
+Pass H6jA1osa3V
+http://www.sansat.net:25461/get.php?username=MAG7685771462&password=H6jA1osa3V&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://www.sansat.net:25461/c/
+MAC 00:1A:79:41:7D:F4
+User VZDIJfVSnu
+Pass Fq1h2zBTQW
+http://www.sansat.net:25461/get.php?username=VZDIJfVSnu&password=Fq1h2zBTQW&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://www.sansat.net:25461/c/
+MAC 00:1A:79:6C:8E:30
+User f8cuuIuFc5
+Pass yoMCfFlbxf
+http://www.sansat.net:25461/get.php?username=f8cuuIuFc5&password=yoMCfFlbxf&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://www.sansat.net:25461/c/
+MAC 00:1A:79:A5:18:DC
+User xcfjv9ELwejXkvB
+Pass 9baQD1RSCC
+http://www.sansat.net:25461/get.php?username=xcfjv9ELwejXkvB&password=9baQD1RSCC&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:EF:33
+User 050501745456700
+Pass KWlOkb7KuP
+http://viptv.accesss.me:25461/get.php?username=050501745456700&password=KWlOkb7KuP&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:14:3E:0C
+User 885571122822281
+Pass qJs3EBo7RP
+http://viptv.accesss.me:25461/get.php?username=885571122822281&password=qJs3EBo7RP&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:1C:AA:60
+User 496241744991222
+Pass 06fbndGAPU
+http://viptv.accesss.me:25461/get.php?username=496241744991222&password=06fbndGAPU&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:95:26
+User 657205565527506
+Pass tztztv28fE
+http://viptv.accesss.me:25461/get.php?username=657205565527506&password=tztztv28fE&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:48:FD:9D
+User 651698091380858
+Pass 59PeZuKAUx
+http://viptv.accesss.me:25461/get.php?username=651698091380858&password=59PeZuKAUx&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:CD:2B:F2
+User 884229695648590
+Pass 88mQ4g1eCw
+http://viptv.accesss.me:25461/get.php?username=884229695648590&password=88mQ4g1eCw&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:CE:74:5B
+User 659113551162352
+Pass lxchPQvA1h
+http://viptv.accesss.me:25461/get.php?username=659113551162352&password=lxchPQvA1h&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:CF:25:E7
+User 001755570707789
+Pass ivFloFXx7W
+http://viptv.accesss.me:25461/get.php?username=001755570707789&password=ivFloFXx7W&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:45:B2:4F
+User 495694912461245
+Pass ZdlpJAU9n1
+http://viptv.accesss.me:25461/get.php?username=495694912461245&password=ZdlpJAU9n1&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:D9:A1:97
+User 770299952829772
+Pass 1ys084hBUT
+http://viptv.accesss.me:25461/get.php?username=770299952829772&password=1ys084hBUT&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:A6:22:88
+User 188818515331535
+Pass 0madulbTaE
+http://viptv.accesss.me:25461/get.php?username=188818515331535&password=0madulbTaE&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:CF:B8:80
+User 121162227768079
+Pass wSjcyrsQmw
+http://viptv.accesss.me:25461/get.php?username=121162227768079&password=wSjcyrsQmw&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:F8:3D
+User 590995316666103
+Pass KIKDtvljRC
+http://viptv.accesss.me:25461/get.php?username=590995316666103&password=KIKDtvljRC&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:55:89:C1
+User 322455193250509
+Pass klKg1CdX9u
+http://viptv.accesss.me:25461/get.php?username=322455193250509&password=klKg1CdX9u&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:88:0E:63
+User 365677777311177
+Pass b2WjXeaAjs
+http://viptv.accesss.me:25461/get.php?username=365677777311177&password=b2WjXeaAjs&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:F0:38
+User 553547344700077
+Pass 3pMYqW0uLE
+http://viptv.accesss.me:25461/get.php?username=553547344700077&password=3pMYqW0uLE&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:13:02:CC
+User 555910442294529
+Pass UWMGgy7C6D
+http://viptv.accesss.me:25461/get.php?username=555910442294529&password=UWMGgy7C6D&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:D4:A4:95
+User 171591811871999
+Pass tJV4bSzpXZ
+http://viptv.accesss.me:25461/get.php?username=171591811871999&password=tJV4bSzpXZ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:ED:10
+User 071500950001767
+Pass cyeGbXxQHL
+http://viptv.accesss.me:25461/get.php?username=071500950001767&password=cyeGbXxQHL&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:C2:9A:A2
+User 409424074820497
+Pass HyUEFBpggS
+http://viptv.accesss.me:25461/get.php?username=409424074820497&password=HyUEFBpggS&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:FB:57
+User 590557616650955
+Pass PEZPoXXNUD
+http://viptv.accesss.me:25461/get.php?username=590557616650955&password=PEZPoXXNUD&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:88:0D
+User 676156555699750
+Pass fhTP16qoEB
+http://viptv.accesss.me:25461/get.php?username=676156555699750&password=fhTP16qoEB&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:D8:7C:F0
+User 010056016001065
+Pass N0pCRbA8Ip
+http://viptv.accesss.me:25461/get.php?username=010056016001065&password=N0pCRbA8Ip&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:14:5B:0D
+User 151583211572528
+Pass iDdCN1X2eW
+http://viptv.accesss.me:25461/get.php?username=151583211572528&password=iDdCN1X2eW&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:FF:1E
+User 656455116551195
+Pass zy9YA9vWQ2
+http://viptv.accesss.me:25461/get.php?username=656455116551195&password=zy9YA9vWQ2&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:C7:60:86
+User 242541646122495
+Pass fJOmwcvNi0
+http://viptv.accesss.me:25461/get.php?username=242541646122495&password=fJOmwcvNi0&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:F4:AA
+User 517157077557551
+Pass Uz8e5yVKAF
+http://viptv.accesss.me:25461/get.php?username=517157077557551&password=Uz8e5yVKAF&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:C9:CB:55
+User 155141599459921
+Pass Xf8JZvS7Rj
+http://viptv.accesss.me:25461/get.php?username=155141599459921&password=Xf8JZvS7Rj&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:ED:AF
+User 061007161105500
+Pass b3Td2otpW1
+http://viptv.accesss.me:25461/get.php?username=061007161105500&password=b3Td2otpW1&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:50:C9:23
+User 525818818118111
+Pass R9MrWiDBvc
+http://viptv.accesss.me:25461/get.php?username=525818818118111&password=R9MrWiDBvc&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:37:99:2E
+User 259552975251592
+Pass rlubQZZpLn
+http://viptv.accesss.me:25461/get.php?username=259552975251592&password=rlubQZZpLn&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:C6:2D:F3
+User 717807871972177
+Pass FxzopbhYSu
+http://viptv.accesss.me:25461/get.php?username=717807871972177&password=FxzopbhYSu&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:47:17:9E
+User 152254615196124
+Pass dbNd4AzAWb
+http://viptv.accesss.me:25461/get.php?username=152254615196124&password=dbNd4AzAWb&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:86:CC:3D
+User 871291771781921
+Pass 0HooOEhAvU
+http://viptv.accesss.me:25461/get.php?username=871291771781921&password=0HooOEhAvU&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:A4:44:36
+User 191999905059109
+Pass JpZwrFDvec
+http://viptv.accesss.me:25461/get.php?username=191999905059109&password=JpZwrFDvec&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:46:76:64
+User 225155679696119
+Pass TRLZPZyLYn
+http://viptv.accesss.me:25461/get.php?username=225155679696119&password=TRLZPZyLYn&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0A:ED:70
+User 115961907010691
+Pass akACn3qKZ0
+http://viptv.accesss.me:25461/get.php?username=115961907010691&password=akACn3qKZ0&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:79:7E:C1
+User 129719959279597
+Pass sVJlLULma1
+http://viptv.accesss.me:25461/get.php?username=129719959279597&password=sVJlLULma1&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:8E:9C:3C
+User 181996058515165
+Pass mTVEt8BOZi
+http://viptv.accesss.me:25461/get.php?username=181996058515165&password=mTVEt8BOZi&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0A:EB:CD
+User 567502026566771
+Pass DTLvH2UQEc
+http://viptv.accesss.me:25461/get.php?username=567502026566771&password=DTLvH2UQEc&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:89:42:F5
+User 986857771969619
+Pass h27lkOsirj
+http://viptv.accesss.me:25461/get.php?username=986857771969619&password=h27lkOsirj&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0F:B0:ED
+User 050151516711001
+Pass WayEsD0laQ
+http://viptv.accesss.me:25461/get.php?username=050151516711001&password=WayEsD0laQ&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:57:8D:7C
+User 616511111619514
+Pass bAZ5FB73rS
+http://viptv.accesss.me:25461/get.php?username=616511111619514&password=bAZ5FB73rS&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+===== STB EMULATOR CODE 7-6-2020 =====
+URL:http://megatrontv.ddns.net:25461/c/
+MAC: 00:1A:79:43:A4:06
+user: MAG8108278905
+pass: RqBzEqSxfe
+http://megatrontv.ddns.net:25461/get.php?username=MAG8108278905&password=RqBzEqSxfe&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:F3:CC
+User 670959060015075
+Pass 7RT0XFG4Ic
+http://viptv.accesss.me:25461/get.php?username=670959060015075&password=7RT0XFG4Ic&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:83:27:2C
+User 912151999518882
+Pass XlGR2fNbNv
+http://viptv.accesss.me:25461/get.php?username=912151999518882&password=XlGR2fNbNv&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:CA:94:CD
+User 521333563393456
+Pass mxIov1oJoH
+http://viptv.accesss.me:25461/get.php?username=521333563393456&password=mxIov1oJoH&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:C1:80:A8
+User 151213919554514
+Pass qrgRnsDNg0
+http://viptv.accesss.me:25461/get.php?username=151213919554514&password=qrgRnsDNg0&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:54:2E:05
+User 694592551157776
+Pass Z9WFzOg386
+http://viptv.accesss.me:25461/get.php?username=694592551157776&password=Z9WFzOg386&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:C7:73:FC
+User 399179519018809
+Pass T1sVYugrys
+http://viptv.accesss.me:25461/get.php?username=399179519018809&password=T1sVYugrys&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:51:90:6F
+User 670760701016567
+Pass L1sXGAa9vi
+http://viptv.accesss.me:25461/get.php?username=670760701016567&password=L1sXGAa9vi&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0A:EE:75
+User 655707600011165
+Pass jh25MvENvt
+http://viptv.accesss.me:25461/get.php?username=655707600011165&password=jh25MvENvt&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:F0:2F
+User 154959940101595
+Pass rJjpucurBK
+http://viptv.accesss.me:25461/get.php?username=154959940101595&password=rJjpucurBK&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:4D:69:33
+User 154811885211451
+Pass MVCH8AIzXX
+http://viptv.accesss.me:25461/get.php?username=154811885211451&password=MVCH8AIzXX&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:C2:BC:82
+User 825888252158525
+Pass nvUHZBFoai
+http://viptv.accesss.me:25461/get.php?username=825888252158525&password=nvUHZBFoai&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:04:11:AA
+User 996364451160143
+Pass GLTvOSxwtE
+http://viptv.accesss.me:25461/get.php?username=996364451160143&password=GLTvOSxwtE&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:82:87:C3
+User 809809621209085
+Pass nb0EQRbvn2
+http://viptv.accesss.me:25461/get.php?username=809809621209085&password=nb0EQRbvn2&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:54:8B:26
+User 914269521548856
+Pass lJdbpqymhu
+http://viptv.accesss.me:25461/get.php?username=914269521548856&password=lJdbpqymhu&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:D9:57:E5
+User 549923484151125
+Pass XQ1X69JhB2
+http://viptv.accesss.me:25461/get.php?username=549923484151125&password=XQ1X69JhB2&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:1C:1A:8D
+User 658199491998996
+Pass c3Y3fYeNdD
+http://viptv.accesss.me:25461/get.php?username=658199491998996&password=c3Y3fYeNdD&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:CC:1C:F7
+User 120166149656156
+Pass 4kWwDaI2lY
+http://viptv.accesss.me:25461/get.php?username=120166149656156&password=4kWwDaI2lY&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:56:F1:7D
+User 558554492229411
+Pass YCcchjbv9L
+http://viptv.accesss.me:25461/get.php?username=558554492229411&password=YCcchjbv9L&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:F2:B3
+User 077556677775561
+Pass HICNJJv6N1
+http://viptv.accesss.me:25461/get.php?username=077556677775561&password=HICNJJv6N1&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:F6:99
+User 565000108008856
+Pass MDPgS3veig
+http://viptv.accesss.me:25461/get.php?username=565000108008856&password=MDPgS3veig&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:CC:43:E4
+User 728812922505228
+Pass BznQQwLjkG
+http://viptv.accesss.me:25461/get.php?username=728812922505228&password=BznQQwLjkG&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:CC:1B:B4
+User 157857211555155
+Pass CUElaZLHso
+http://viptv.accesss.me:25461/get.php?username=157857211555155&password=CUElaZLHso&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:AE:51:E4
+User 559187958999779
+Pass eGLFE4Ui5R
+http://viptv.accesss.me:25461/get.php?username=559187958999779&password=eGLFE4Ui5R&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:34:28:77
+User 173571383588511
+Pass VYqL2k31tj
+http://viptv.accesss.me:25461/get.php?username=173571383588511&password=VYqL2k31tj&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://viptv.accesss.me:25461/c/
+MAC 00:1A:79:0B:9B:39
+User 200566210065762
+Pass HNUg6hp93s
+http://viptv.accesss.me:25461/get.php?username=200566210065762&password=HNUg6hp93s&type=m3u_plus
+http://yellow-star.info:8000/c/
+00:1A:79:CD:5F:30
+00:1A:79:E9:8F:CF
+00:1A:79:45:F9:89
+00:1A:79:42:DF:EE
+00:1A:79:54:23:7D
+00:1A:79:90:09:07
+00:1A:79:5B:B0:5B
+00:1A:79:4B:D3:78
+00:1A:79:5D:DC:88
+00:1A:79:73:B1:F7
+00:1A:79:3F:25:CF
+00:1A:79:9C:45:66
+00:1A:79:2A:44:49
+00:1A:79:5F:B6:92
+00:1A:79:4A:62:DD
+00:1A:79:E9:BA:0D
+00:1A:79:BB:0F:90
+00:1A:79:15:36:E2
+00:1A:79:13:5D:D7
+00:1A:79:19:39:90
+00:1A:79:2A:06:67
+00:1A:79:5D:2E:00
+00:1A:79:11:A8:BC
+00:1A:79:20:FA:A2
+00:1A:79:42:A0:C4
+00:1A:79:2E:2D:6D
+00:1A:79:01:A1:26
+00:1A:79:C2:EC:34
+00:1A:79:22:04:07
+00:1A:79:5C:54:F1
+00:1A:79:26:55:75
+00:1A:79:85:55:4D
+00:1A:79:5F:DA:C7
+00:1A:79:DD:D2:37
+00:1A:79:23:6B:A5
+00:1A:79:56:20:FD
+00:1A:79:EE:D8:A5
+00:1A:79:1C:60:45
+00:1A:79:3F:CE:38
+00:1A:79:9A:A0:97
+00:1A:79:85:DF:A1
+00:1A:79:27:A1:1B
+00:1A:79:AB:BD:9E
+00:1A:79:4F:25:B6
+00:1A:79:E8:8B:1D
+00:1A:79:19:6F:1B
+00:1A:79:A4:A9:E6
+00:1A:79:C4:80:2D
+00:1A:79:37:01:2C
+00:1A:79:50:36:82
+00:1A:79:2D:27:04
+00:1A:79:80:7A:A6
+00:1A:79:44:3C:85
+00:1A:79:2B:9D:F5
+00:1A:79:23:90:45
+00:1A:79:57:24:3C
+00:1A:79:2B:9A:FE
+00:1A:79:A5:5F:E9
+????????????????????????????
+?? http://31.207.46.80:8000
+?? http://ip.sltv.be:8080
+? December 5, 2020, 9:27 pm
+????? 00:1A:79:03:3C:6C
+?? User d78sgPdkac
+?? Pass r1kHCBZONU
+?? Countries
+?? http://31.207.46.80:8000/get.php?username=d78sgPdkac&password=r1kHCBZONU&type=m3u
+????????????????????????????
+?? http://31.207.46.80:8000
+?? http://ip.sltv.be:8080
+? November 16, 2020, 5:50 am
+????? 00:1A:79:03:3C:6A
+?? User 4aJRq4FRZY
+?? Pass dC29MXC35x
+?? Countries
+?? http://31.207.46.80:8000/get.php?username=4aJRq4FRZY&password=dC29MXC35x&type=m3u
+http://thetechgeeks.club:8080/c/
+00:1A:79:00:00:00 September 28, 2020, 8:51 pm
+00:1A:79:00:09:41 October 20, 2020, 12:00 am
+00:1A:79:00:0A:54 March 27, 2021, 8:13 pm
+00:1A:79:00:11:44 August 2, 2020, 12:36 pm
+00:1A:79:00:13:97 July 26, 2020, 12:00 am
+00:1A:79:00:15:09 October 17, 2020, 11:06 am
+00:1A:79:00:25:B5 January 15, 2021, 8:46 pm
+00:1A:79:00:26:B0 July 1, 2020, 2:27 pm
+00:1A:79:00:27:53 October 7, 2020, 12:00 am
+00:1A:79:00:28:23 November 23, 2020, 5:23 pm
+00:1A:79:00:2F:87 May 24, 2020, 2:29 pm
+00:1A:79:00:31:7B August 12, 2020, 8:30 pm
+00:1A:79:00:36:E7 November 6, 2020, 4:54 pm
+00:1A:79:00:44:4D September 2, 2020, 4:36 pm
+00:1A:79:00:44:84 October 16, 2020, 9:18 pm
+00:1A:79:00:4A:0B August 17, 2020, 9:09 pm
+00:1A:79:00:4C:51 December 1, 2020, 9:31 pm
+00:1A:79:00:4E:62 January 23, 2021, 9:23 pm
+00:1A:79:00:4F:F0 July 25, 2020, 5:50 pm
+00:1A:79:00:51:70 January 8, 2021, 9:40 pm
+00:1A:79:00:5F:A5 July 1, 2020, 8:34 pm
+00:1A:79:00:6A:B7 November 16, 2020, 12:00 am
+00:1A:79:00:6D:8C January 25, 2021, 10:52 pm
+00:1A:79:00:74:10 July 9, 2020, 1:54 pm
+00:1A:79:00:74:12 May 28, 2020, 7:14 pm
+00:1A:79:00:74:15 December 4, 2020, 2:24 pm
+00:1A:79:00:74:17 June 14, 2020, 12:53 pm
+00:1A:79:00:74:16 June 12, 2020, 7:21 pm
+00:1A:79:00:74:13 May 24, 2020, 9:55 pm
+00:1A:79:00:74:14 July 8, 2020, 3:52 pm
+00:1A:79:00:74:11 June 27, 2020, 6:26 pm
+00:1A:79:00:77:70 January 14, 2021, 8:00 pm
+00:1A:79:00:84:BF September 14, 2020, 1:40 pm
+00:1A:79:00:91:1D November 1, 2020, 11:27 am
+00:1A:79:00:93:38 May 8, 2021, 12:00 am
+00:1A:79:00:93:69 November 21, 2020, 9:44 pm
+00:1A:79:00:A0:0B November 28, 2020, 1:48 pm
+00:1A:79:00:B6:F0 September 3, 2020, 8:02 pm
+00:1A:79:00:C0:D2 June 11, 2020, 11:37 pm
+00:1A:79:00:C4:3A September 17, 2020, 12:05 pm
+00:1A:79:00:C5:3D January 19, 2038, 3:14 am
+00:1A:79:00:DB:E0 August 14, 2020, 1:34 am
+00:1A:79:00:E3:55 October 19, 2020, 8:26 pm
+00:1A:79:00:F1:D1 June 18, 2020, 12:00 am
+00:1A:79:01:00:55 February 18, 2021, 12:00 am
+00:1A:79:01:01:01 June 14, 2020, 11:44 am
+00:1A:79:01:01:02 June 14, 2020, 11:45 am
+00:1A:79:01:13:5F July 16, 2020, 11:30 pm
+00:1A:79:01:15:51 July 13, 2020, 6:34 pm
+00:1A:79:01:15:81 July 3, 2020, 5:44 pm
+00:1A:79:01:15:4F August 17, 2020, 9:29 pm
+00:1A:79:01:2F:1E June 11, 2020, 8:55 pm
+00:1A:79:01:48:82 June 21, 2020, 12:20 pm
+00:1A:79:01:61:50 July 16, 2020, 9:06 pm
+00:1A:79:01:71:4A January 25, 2021, 12:50 pm
+00:1A:79:01:81:31 November 12, 2020, 12:00 am
+00:1A:79:01:88:5A August 16, 2020, 11:22 am
+00:1A:79:01:8B:42 May 24, 2020, 5:59 pm
+00:1A:79:01:96:00 October 3, 2020, 9:24 pm
+00:1A:79:01:9B:3C March 16, 2021, 8:20 pm
+00:1A:79:01:B2:E5 December 14, 2020, 12:09 pm
+00:1A:79:01:BB:E8 June 10, 2020, 12:37 pm
+00:1A:79:01:C3:9D December 14, 2020, 8:50 pm
+00:1A:79:01:D0:55 November 3, 2020, 1:13 am
+00:1A:79:01:DB:50 January 18, 2021, 7:41 pm
+00:1A:79:01:E2:30 October 19, 2020, 12:22 pm
+00:1A:79:01:E7:19 December 20, 2020, 1:41 pm
+00:1A:79:02:03:81 January 12, 2021, 5:23 pm
+00:1A:79:02:08:80 November 4, 2020, 11:00 pm
+00:1A:79:02:08:7C July 19, 2020, 7:45 pm
+00:1A:79:02:08:9B November 13, 2020, 5:23 pm
+00:1A:79:02:08:B0 July 26, 2020, 4:54 pm
+00:1A:79:02:0C:35 November 22, 2020, 8:42 pm
+00:1A:79:02:10:9B August 2, 2020, 7:41 pm
+00:1A:79:02:16:7A October 26, 2020, 2:42 pm
+00:1A:79:02:1D:25 February 15, 2021, 7:03 pm
+00:1A:79:02:1D:AB September 18, 2020, 2:56 pm
+00:1A:79:02:28:34 October 4, 2020, 12:00 am
+00:1A:79:02:2A:65 June 13, 2020, 4:39 pm
+00:1A:79:02:3F:0F September 12, 2020, 9:58 pm
+00:1A:79:02:41:52 August 21, 2020, 10:29 pm
+00:1A:79:02:43:A7 June 1, 2020, 10:00 pm
+00:1A:79:02:44:67 June 9, 2020, 10:30 am
+00:1A:79:02:48:54 March 20, 2021, 9:09 pm
+00:1A:79:02:50:0E September 19, 2020, 2:26 pm
+00:1A:79:02:50:1C April 27, 2021, 2:18 pm
+00:1A:79:02:55:57 November 17, 2020, 4:36 pm
+00:1A:79:02:55:5E September 1, 2020, 3:40 pm
+00:1A:79:02:57:2B October 19, 2020, 8:34 pm
+00:1A:79:02:5B:C5 July 21, 2020, 9:17 pm
+00:1A:79:02:5C:89 December 7, 2020, 12:46 pm
+00:1A:79:02:5C:BD December 14, 2020, 4:36 pm
+00:1A:79:02:61:3D March 22, 2021, 12:43 pm
+00:1A:79:02:72:B1 July 29, 2020, 2:56 pm
+http://www.fonziptv.com:8080/c/
+00:1A:79:40:0C:D2
+00:1A:79:40:0C:E9
+00:1A:79:40:0D:4D
+00:1A:79:40:10:16
+00:1A:79:40:14:31
+00:1A:79:40:17:B5
+00:1A:79:40:18:BA
+00:1A:79:40:1A:63
+00:1A:79:40:1F:BE
+00:1A:79:40:2C:D4
+00:1A:79:40:2D:48
+00:1A:79:40:2D:D3
+00:1A:79:40:2D:D4
+00:1A:79:40:2D:D2
+00:1A:79:40:2F:CC
+00:1A:79:40:1F:D1
+00:1A:79:40:1F:D6
+00:1A:79:40:1F:CC
+00:1A:79:40:1F:CB
+00:1A:79:40:20:0E
+00:1A:79:40:1F:C7
+00:1A:79:40:20:D5
+00:1A:79:40:20:E4
+00:1A:79:40:22:A7
+00:1A:79:40:25:56
+00:1A:79:40:25:53
+00:1A:79:40:01:35
+00:1A:79:40:02:2D
+00:1A:79:40:03:78
+00:1A:79:40:03:9C
+00:1A:79:40:03:A2
+00:1A:79:40:05:EC
+00:1A:79:40:06:7D
+00:1A:79:40:06:CD
+00:1A:79:40:07:E9
+00:1A:79:40:08:1F
+00:1A:79:40:26:C4
+00:1A:79:40:26:E6
+00:1A:79:40:2A:58
+00:1A:79:40:2A:6F
+00:1A:79:40:2A:65
+00:1A:79:40:2B:01
+00:1A:79:40:2B:17
+00:1A:79:40:2C:11
+00:1A:79:40:2C:3C
+http://p1.iptvrocket.tv/c/
+00:1A:79:00:00:01 November 3, 2020, 3:52 am
+00:1A:79:57:D2:BE October 28, 2020, 12:34 pm
+00:1A:79:00:09:40 September 8, 2020, 9:24 am
+00:1A:79:00:0B:62 May 8, 2021, 6:32 am
+00:1A:79:57:6E:E6 January 16, 2021, 5:38 am
+00:1A:79:57:D7:72 May 3, 2021, 5:15 am
+00:1A:79:00:19:47 April 9, 2021, 11:08 am
+00:1A:79:00:19:68 January 26, 2021, 12:32 pm
+00:1A:79:00:19:46 February 9, 2021, 4:48 am
+00:1A:79:00:1C:5B October 18, 2020, 4:39 am
+00:1A:79:57:D4:B4 January 1, 2021, 11:01 am
+00:1A:79:57:D7:31 April 21, 2021, 1:19 am
+00:1A:79:57:E0:43 March 10, 2021, 8:22 am
+00:1A:79:57:D4:2E January 20, 2021, 2:50 am
+00:1A:79:00:24:6B August 10, 2020, 6:45 am
+00:1A:79:57:88:A1 May 23, 2021, 9:01 am
+00:1A:79:57:D7:61 May 21, 2021, 2:38 pm
+00:1A:79:57:2F:E2 November 8, 2020, 9:00 am
+00:1A:79:57:D7:A0 July 20, 2020, 12:34 pm
+00:1A:79:57:D2:FD January 17, 2021, 5:10 am
+00:1A:79:57:D7:79 January 12, 2021, 5:19 am
+00:1A:79:57:D5:33 November 14, 2020, 4:29 pm
+00:1A:79:00:56:77 January 27, 2021, 4:25 am
+00:1A:79:57:D3:EE January 30, 2021, 8:42 pm
+===== STB EMULATOR CODE 7-6-2020 =====
+URL:http://megatrontv.ddns.net:25461/c/
+MAC: 00:1A:79:A6:F6:FB
+KULLANICI: OSvyAYYkxA
+SIFRE: ID9oNTKApM
+http://megatrontv.ddns.net:25461/get.php?username=OSvyAYYkxA&password=ID9oNTKApM&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL:http://megatrontv.ddns.net:25461/c/
+MAC: 00:1A:79:63:AF:90
+KULLANICI: mahu19
+SIFRE: ST6jQ2Hm5n
+http://megatrontv.ddns.net:25461/get.php?username=mahu19&password=ST6jQ2Hm5n&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL= http://viptv.accesss.me:25461/c/
+URL REAL URL=http://cms.accesss.me:25461
+MAC: 00:1A:79:0A:ED:C5
+BITIS: February 24, 2021, 10:00 pm
+M3U URL= http://viptv.accesss.me:25461/get.php?username=667266255702757&password=FSsX5APMmv&type=m3u_plus
+BAGLANTI:1 YOK Aktif Baglanti:0
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://4kiptv.vip:88/c/
+MAC 00:1A:79:AE:CB:A9
+User PWCx5yhGsd
+Pass XoMLuSnAgq
+http://4kiptv.vip:88/get.php?username=PWCx5yhGsd&password=XoMLuSnAgq&type=m3u_plus
+===== STB EMULATOR CODE 7-6-2020 =====
+URL http://4kiptv.vip:88/c/
+MAC 00:1A:79:4E:72:C8
+User kcDKj5YawO
+Pass hNgNhh7WmV
+http://4kiptv.vip:88/get.php?username=kcDKj5YawO&password=hNgNhh7WmV&type=m3u_plus
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:5F:AE:2E
+Expire Date: 8.08.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:5C:DB:EC
+Expire Date: 30.11.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:A8:10:F9
+Expire Date: 23.04.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:45:95:A6
+Expire Date: 30.05.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:64:F9:4E
+Expire Date: 1.08.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:35:56:FD
+Expire Date: 22.08.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:A3:69:B2
+Expire Date: 8.04.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:3B:0E:6F
+Expire Date: 5.07.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:5A:45:4A
+Expire Date: 11.12.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:F8:6B:8C
+Expire Date: 29.06.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:41:6C:CF
+Expire Date: 15.03.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:41:74:E0
+Expire Date: 25.06.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:18:E4:3C
+Expire Date: 12.10.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:36:B5:8C
+Expire Date: 15.04.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:5D:E3:22
+Expire Date: 10.07.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:B9:74:57
+Expire Date: 2.04.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:42:2B:A3
+Expire Date: 9.06.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:16:CC:6B
+Expire Date: 13.08.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:F4:C5:5A
+Expire Date: 28.09.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:5D:3F:0B
+Expire Date: 14.11.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:64:F4:13
+Expire Date: 2.10.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:5C:28:FE
+Expire Date: 8.09.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:4A:7E:8A
+Expire Date: 25.06.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:A6:5F:84
+Expire Date: 24.09.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:64:0F:4E
+Expire Date: 10.09.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:6C:50:B0
+Expire Date: 24.06.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:A3:DB:73
+Expire Date: 25.01.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:11:22:9B
+Expire Date: 30.01.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:4E:41:91
+Expire Date: 4.04.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:1F:F1:7F
+Expire Date: 4.11.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:71:12:84
+Expire Date: 29.05.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:AD:61:A1
+Expire Date: 16.11.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:55:0C:4E
+Expire Date: 1.05.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:A8:D4:1A
+Expire Date: 29.06.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:55:38:D0
+Expire Date: 4.08.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:A9:C1:49
+Expire Date: 12.08.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:65:38:B2
+Expire Date: 17.08.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:4B:51:B8
+Expire Date: 21.11.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:68:B2:85
+Expire Date: 13.03.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:43:B0:30
+Expire Date: 11.09.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:54:2B:FC
+Expire Date: 4.04.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:3D:08:F0
+Expire Date: 4.06.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:64:DC:7B
+Expire Date: 16.09.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:4D:DC:74
+Expire Date: 27.01.2021
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:D6:3E:BD
+Expire Date: 28.08.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:47:8F:7A
+Expire Date: 8.08.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:6A:79:25
+Expire Date: 1.08.2020
+Url= http://interprosat.club:80/c/
+MAC: 00:1A:79:5C:9A:DA
+Expire Date: 26.06.2020
+?? http://xpro.one-iptv.com:25443/c/
+? MAC: 00:1A:79:42:62:F2
+? MAC: 00:1A:79:45:AA:78
+? MAC: 00:1A:79:45:D8:7A
+? MAC: 00:1A:79:46:00:00
+? MAC: 00:1A:79:46:22:22
+?? http://xtreamtv.com.mx:8000/c/
+? MAC: 00:1A:79:43:F3:62
+?? http://zikinadinastija.xyz:12974/c/
+? MAC: 00:1A:79:23:0A:35
+? MAC: 00:1A:79:26:C3:FD
+? MAC: 00:1A:79:34:96:C3
+? MAC: 00:1A:79:45:99:CE
+? MAC: 00:1A:79:47:04:F2
+? MAC: 00:1A:79:54:70:56
+?? http://ipc.proipciptv.com:8000/c/
+? MAC: 00:1A:79:40:4F:60
+? MAC: 00:1A:79:39:2D:46
+? MAC: 00:1A:79:42:D3:05
+? MAC: 00:1A:79:43:34:01
+? MAC: 00:1A:79:43:E0:B3
+? MAC: 00:1A:79:47:6A:72
+?? http://portal.germanyservers.de:8000/c/
+? MAC: 00:1A:79:26:C5:8E
+? MAC: 00:1A:79:29:3C:F8
+? MAC: 00:1A:79:36:F0:35
+? MAC: 00:1A:79:38:22:22
+?? http://ottshow.net:80/c/
+? MAC: 00:1A:79:33:33:33
+? MAC: 00:1A:79:39:2B:2A
+? MAC: 00:1A:79:40:DE:44
+?? http://iptv.ndasat.com:88/c/
+? MAC: 00:1A:79:47:C8:D7
+?? http://xmka-tv.mine.nu:1985/c/
+? MAC: 00:1A:79:39:22:22
+? MAC: 00:1A:79:40:82:CF
+? MAC: 00:1A:79:40:86:18
+? MAC: 00:1A:79:41:B5:88
+? MAC: 00:1A:79:49:B2:84
+? MAC: 00:1A:79:50:D3:96
+? MAC: 00:1A:79:51:1B:B6
+? MAC: 00:1A:79:57:B9:6C
+?? http://vip.groupiptv.com:7000/c/
+? MAC: 00:1a:79:2C:68:C0
+?? http://v4.iptvgold.com:8010/c/
+? MAC: 00:1A:79:44:CA:54
+? Mac = 00:1A:79:43:A4:6F
+? MAC: 00:1A:79:48:0F:0F
+?? http://ottshow.net:80/c/
+? MAC: 00:1A:79:41:22:22
+? MAC: 00:1A:79:45:75:06
+?? http://nordic1.tv:2095/c/
+? MAC: 00:1A:79:40:CE:60
+? MAC: 00:1A:79:40:D5:07
+? MAC: 00:1A:79:41:AA:AA
+? MAC: 00:1A:79:42:61:0A
+? MAC: 00:1A:79:42:61:0A
+? MAC: 00:1A:79:42:03:73
+? MAC: 00:1A:79:44:CF:C8
+? MAC: 00:1A:79:45:F5:B8
+? MAC: 00:1A:79:45:A4:EF
+? MAC: 00:1A:79:45:13:88
+? MAC: 00:1A:79:46:8D:EB
+??http://my.splayertv.net:8080/c/
+?MAC: 00:1A:79:23:C8:3B
+??March 6, 2021??
+?MAC: 00:1A:79:39:1B:26
+??August 15, 2020??
+?MAC: 00:1A:79:A4:0F:FC
+??September 7, 2020??
+?MAC: 00:1A:79:4F:33:E2
+??November 1, 2020??
+??http://89.187.178.101:8080
+??http://ccreborn.one:8080
+?MAC:00:1a:79:bd:4b:d1
+??June 6, 2020??
+1??Users :s2w2B85TdU9057
+2??Pass :ytYwrE4hdw
+??http://89.187.178.101:8080/get.php?username=s2w2B85TdU9057&password=ytYwrE4hdw&type=m3u
+??http://89.187.178.101:8080
+??http://ccreborn.one:8080
+?MAC:00:1a:79:12:3b:9c
+??June 14, 2020??
+1??Users :LSymKk0ACC
+2??Pass : 3X6ceZ9Qz4
+http://89.187.178.101:8080/get.php?username=LSymKk0ACC&password=3X6ceZ9Qz4&type=m3u
+??http://89.187.178.101:8080
+??http://ccreborn.one:8080
+?MAC:00:1a:79:62:53:6c
+??December 6, 2020??
+1??Users :eef1Gm16UR
+2??Pass :dc3Ag9FzGI
+http://89.187.178.101:8080/get.php?username=eef1Gm16UR&password=dc3Ag9FzGI&type=m3u
+??http://stalker.webhop.org:80
+?MAC:00:1A:79:42:E1:80
+??2020-08-20??
+?MAC:00:1A:79:68:C0:17
+??2020-09-28??
+?MAC:00:1A:79:5F:E6:FA
+??2021-03-02
+?MAC:00:1A:79:3F:E4:A9
+??2020-08-01??
+?MAC:00:1A:79:39:32:5F
+??2020-06-28??
+?MAC:00:1A:79:26:DB:53
+??2020-06-18??
+?? http://x.4kplus.vip/c/
+? MAC: 00:1A:79:F9:8F:16
+?? December 4, 2020
+? MAC: 00:1A:79:F9:5F:D0
+?? December 7, 2020
+? MAC: 00:1A:79:40:35:61
+?? June 18, 2020
+? MAC: 00:1A:79:72:FA:A1
+?? September 7, 2020
+? MAC: 00:1A:79:F9:6F:F8
+?? 13, 2020
+? MAC: 00:1A:79:F9:8F:FD
+November 30, 2020
+? MAC: 00:1A:79:3F:63:0C
+?? March 15, 2020
+? MAC: 00:1A:79:F9:7F:D2
+?? December 11, 2020
+? MAC: 00:1A:79:41:73:01
+?? October 14, 2020
+? MAC: 00:1A:79:31:E9:91
+?? December 16, 2020
+? MAC: 00:1A:79:1D:8F:25
+?? November 18, 2020
+? MAC: 00:1A:79:F9:9F:93
+?? February 25, 2021
+?? http://digitaltehno.from-hi.com:25461/c/
+? MAC: 00:1A:79:42:EE:E4
+? MAC: 00:1A:79:43:5D:85
+? MAC: 00:1A:79:46:06:38
+? MAC: 00:1A:79:46:F0:56
+? MAC: 00:1A:79:46:EF:54
+? MAC: 00:1A:79:2F:88:88
+? MAC: 00:1A:79:2E:3A:CA
+? MAC: 00:1A:79:2D:9E:FC
+? MAC: 00:1A:79:2D:9F:14
+? MAC: 00:1A:79:3F:CF:B7
+? MAC: 00:1A:79:3C:40:E9
+http://yellow-star.info:8000/c/
+00:1A:79:CD:5F:30
+00:1A:79:E9:8F:CF
+00:1A:79:45:F9:89
+00:1A:79:42:DF:EE
+00:1A:79:54:23:7D
+00:1A:79:90:09:07
+00:1A:79:5B:B0:5B
+00:1A:79:4B:D3:78
+00:1A:79:5D:DC:88
+00:1A:79:73:B1:F7
+00:1A:79:3F:25:CF
+00:1A:79:9C:45:66
+00:1A:79:2A:44:49
+00:1A:79:5F:B6:92
+00:1A:79:4A:62:DD
+00:1A:79:E9:BA:0D
+00:1A:79:BB:0F:90
+00:1A:79:15:36:E2
+00:1A:79:13:5D:D7
+00:1A:79:19:39:90
+00:1A:79:2A:06:67
+00:1A:79:5D:2E:00
+00:1A:79:11:A8:BC
+00:1A:79:20:FA:A2
+00:1A:79:42:A0:C4
+00:1A:79:2E:2D:6D
+00:1A:79:01:A1:26
+00:1A:79:C2:EC:34
+00:1A:79:22:04:07
+00:1A:79:5C:54:F1
+00:1A:79:26:55:75
+00:1A:79:85:55:4D
+00:1A:79:5F:DA:C7
+00:1A:79:DD:D2:37
+00:1A:79:23:6B:A5
+00:1A:79:56:20:FD
+00:1A:79:EE:D8:A5
+00:1A:79:1C:60:45
+00:1A:79:3F:CE:38
+00:1A:79:9A:A0:97
+00:1A:79:85:DF:A1
+00:1A:79:27:A1:1B
+00:1A:79:AB:BD:9E
+00:1A:79:4F:25:B6
+00:1A:79:E8:8B:1D
+00:1A:79:19:6F:1B
+00:1A:79:A4:A9:E6
+00:1A:79:C4:80:2D
+00:1A:79:37:01:2C
+00:1A:79:50:36:82
+00:1A:79:2D:27:04
+00:1A:79:80:7A:A6
+00:1A:79:44:3C:85
+00:1A:79:2B:9D:F5
+00:1A:79:23:90:45
+00:1A:79:57:24:3C
+00:1A:79:2B:9A:FE
+00:1A:79:A5:5F:E9
+http://www.fonziptv.com:8080/c/
+00:1A:79:40:0C:D2
+00:1A:79:40:0C:E9
+00:1A:79:40:0D:4D
+00:1A:79:40:10:16
+00:1A:79:40:14:31
+00:1A:79:40:17:B5
+00:1A:79:40:18:BA
+00:1A:79:40:1A:63
+00:1A:79:40:1F:BE
+00:1A:79:40:2C:D4
+00:1A:79:40:2D:48
+00:1A:79:40:2D:D3
+00:1A:79:40:2D:D4
+00:1A:79:40:2D:D2
+00:1A:79:40:2F:CC
+00:1A:79:40:1F:D1
+00:1A:79:40:1F:D6
+00:1A:79:40:1F:CC
+00:1A:79:40:1F:CB
+00:1A:79:40:20:0E
+00:1A:79:40:1F:C7
+00:1A:79:40:20:D5
+00:1A:79:40:20:E4
+00:1A:79:40:22:A7
+00:1A:79:40:25:56
+00:1A:79:40:25:53
+00:1A:79:40:01:35
+00:1A:79:40:02:2D
+00:1A:79:40:03:78
+00:1A:79:40:03:9C
+00:1A:79:40:03:A2
+00:1A:79:40:05:EC
+00:1A:79:40:06:7D
+00:1A:79:40:06:CD
+00:1A:79:40:07:E9
+00:1A:79:40:08:1F
+00:1A:79:40:26:C4
+00:1A:79:40:26:E6
+00:1A:79:40:2A:58
+00:1A:79:40:2A:6F
+00:1A:79:40:2A:65
+00:1A:79:40:2B:01
+00:1A:79:40:2B:17
+00:1A:79:40:2C:11
+00:1A:79:40:2C:3C

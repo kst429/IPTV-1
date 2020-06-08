@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Al Yaum
+http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
+#EXTINF:-1,alltv
+http://185.96.70.242:1935/live/alltv/playlist.m3u8
+#EXTINF:-1,ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1,Halab Today TV
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+#EXTINF:-1,Halab Today TV
+https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:-1,Noor Al-Sham
+http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
+#EXTINF:-1,Noor Al-Sham
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
+#EXTINF:-1,Radio Souryana
+http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
+#EXTINF:-1,Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,Suboro TV
+https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/chunklist_w1892967162_b900000.m3u8
+#EXTINF:-1,Syria Drama
+http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
+#EXTINF:-1,Syria Satellite Channel
+http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
+#EXTINF:-1,Syria Satellite Channel
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8
+#EXTINF:-1,Syrian Education TV
+http://82.137.248.16:1935/SEdu/stream31122019/playlist.m3u8
+#EXTINF:-1,Syrian Education TV
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_edu
+#EXTINF:-1,Syrian News Channel
+http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
+#EXTINF:-1,Syrian News Channel
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:-1,Ugarit TV [not 24/7]
+http://82.137.248.16:1935/Ugarit/stream31122019/playlist.m3u8?DVR
+#EXTINF:-1,Ugarit TV [not 24/7]
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit

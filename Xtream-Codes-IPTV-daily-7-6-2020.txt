@@ -1,0 +1,71 @@
+HOST: http://217.182.134.18:25001/
+USER: OofqVnBS6z
+PASS: 7WuXEJ36i5
+
+HOST: http://195.181.161.119:80/
+USER: bTpVkpoJvm
+PASS: KOgwFpZQKZ
+
+HOST: http://plus-tv.us:8080/
+USER: 1899
+PASS: 1899
+
+HOST: http://pluskor.com:8080/
+USER: ndr487dr
+PASS: 36dnr89rr
+
+HOST: http://207.38.89.242:8080/
+USER: 1899
+PASS: 1899
+
+HOST: http://media-grupa.net:80/
+USER: bTpVkpoJvm
+PASS: KOgwFpZQKZ
+
+HOST: http://webgame.mine.nu:25001/
+USER: OofqVnBS6z
+PASS: 7WuXEJ36i5
+
+HOST: http://62.171.128.99:25461/
+USER: phoenix
+PASS: 1212
+
+HOST: http://vipeiptv.com:25461/
+USER: 010101
+PASS: 010101
+
+HOST: http://fpro.webvps.de:25443/
+USER: NDA5JPIq8CrKq
+PASS: hln6l89O9G
+
+HOST: http://m-iptv.net:6204/
+USER: 95025267076109
+PASS: 65839594001441
+
+HOST: http://linux-app.tv:6204/
+USER: 15020208413552
+PASS: 24021189856304
+
+HOST: http://linux-app.tv:6204/
+USER: 60400655844704
+PASS: 32991126026152
+
+HOST: http://skyhd-iptv.com:2095/
+USER: stalkerexyo
+PASS: WyeKsAI0Rc
+
+HOST: http://heinentv.ddns.net:25461/
+USER: 756
+PASS: 1234
+
+HOST: http://ip.bordo1453.be/
+USER: IDOL5qiAug
+PASS: wFdBMEM8o2
+
+HOST: http://go.panelsrc.org:2086/
+USER: 121212
+PASS: 121212
+
+HOST: http://ip.bordo1453.be/
+USER: 8zxTalrfgK
+PASS: RPHnDkJEqO

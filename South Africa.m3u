@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,BOK TV
+http://boktv.interworks.in:1935/live/boktv/playlist.m3u8
+#EXTINF:-1,Trace Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
